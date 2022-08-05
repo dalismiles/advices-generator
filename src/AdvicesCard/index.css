@@ -1,0 +1,14 @@
+.AdvicesCard {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgb(140 183 194);
+}
+
+.AdvicesCard__text {
+  padding: 30px;
+}
